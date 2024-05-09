@@ -90,6 +90,9 @@ touch .gitignore
 ~~~
 Foi criado esse arquivo justamente para ignorar todos os arquivos do node, no qual não fazemos versionamento.
 
+No arquivo `.gitignore` foi selecionado a pasta `node_modules` da seguinte forma:
+`/node_modules`
+
 - O que é o Chocolatey (e porque não instalá-lo agora):
 E um gerenciador de pacotes, ou seja, ele otimiza as intalações de pacotes do windowns utilizando apenas 3 parâmetros:
 
