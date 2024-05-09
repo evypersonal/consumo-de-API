@@ -44,3 +44,9 @@ git commit -m "comentario-do-commit"
 ~~~bash
 git push origin main
 ~~~
+
+18. Configurando modo de commit:
+~~~bash
+git config core.editor "code --wait"
+~~~
+
