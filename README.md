@@ -84,6 +84,12 @@ npm start
 - JSON5 vs. JSON <https://github.com/json5/json5>
 Utilizamos JSON5 como forma experimental, devido muitos aplicativos ainda utilizar o JSON convensional pode ocorrer conflitos de requisições.
 
+- Criação do arquivo `.gitignore`:
+~~~bash
+touch .gitignore
+~~~
+Foi criado esse arquivo justamente para ignorar todos os arquivos do node, no qual não fazemos versionamento.
+
 - O que é o Chocolatey (e porque não instalá-lo agora):
 E um gerenciador de pacotes, ou seja, ele otimiza as intalações de pacotes do windowns utilizando apenas 3 parâmetros:
 
