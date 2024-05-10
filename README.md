@@ -100,4 +100,4 @@ E um gerenciador de pacotes, ou seja, ele otimiza as intalações de pacotes do 
 choco install "nomedopacote"
 ~~~
 
-As desvantagens desse gerenciador de pacotes é que ele é um arquivo pesado para o computador, e pode haver problemas de segurança se os pacotes forem mal mantidos;
+As desvantagens desse gerenciador de pacotes é que ele é um arquivo pesado para o computador, e pode haver problemas de segurança se os pacotes forem mal mantidos; 
