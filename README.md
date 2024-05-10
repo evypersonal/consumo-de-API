@@ -101,3 +101,10 @@ choco install "nomedopacote"
 ~~~
 
 As desvantagens desse gerenciador de pacotes é que ele é um arquivo pesado para o computador, e pode haver problemas de segurança se os pacotes forem mal mantidos; 
+
+<!-- segunda aula de API -->
+
+- Instalação de dependencias de projeto com o comando:
+~~~bash
+npm install
+~~~
