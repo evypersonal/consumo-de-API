@@ -1,14 +1,44 @@
 {
   "produtos": [
-    { 
-      "id": "fd25", 
+    {
+      "id": "fd25",
       "descricao": "Halls de hortelã",
       "preco": 3
     },
     {
-      "id":"5ce5",
+      "id": "5ce5",
       "descricao": "Quebra-queixo",
       "preco": 0.4
+    },
+    {
+      "id": "a7ba",
+      "descricao": "",
+      "preco": ""
+    },
+    {
+      "id": "60a7",
+      "descricao": "",
+      "preco": ""
+    },
+    {
+      "id": "daae",
+      "descricao": "",
+      "preco": ""
+    },
+    {
+      "id": "fea0",
+      "descricao": "",
+      "preco": ""
+    },
+    {
+      "id": "fa3b",
+      "descricao": "",
+      "preco": ""
+    },
+    {
+      "id": "9e46",
+      "descricao": "",
+      "preco": ""
     }
   ]
 }
